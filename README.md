@@ -9,7 +9,7 @@ Getting Started
 ---------------
 
 The code works in python so Python is a pre-requisite.
-Install the libraries :-  Beautiful Soup and Pandas
+Install the libraries :-  Beautiful Soup and Pandas Request
 
 Run the following command on your terminal to install
 
